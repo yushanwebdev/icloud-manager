@@ -13,7 +13,7 @@ Install the Rust
 curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
 ```
 
-You can use any package manager to install `node_modules`. Here I'm using `pnpm`.
+You can use any package manager to install dependecies.
 
 ```shell
 pnpm install
